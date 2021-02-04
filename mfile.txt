@@ -1,2 +1,3 @@
 the first m1 file
 the second m2 file
+THIS LINE m3

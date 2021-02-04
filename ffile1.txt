@@ -1,1 +1,2 @@
 this is new line of f1 commit
+this is new line of f2 commit
